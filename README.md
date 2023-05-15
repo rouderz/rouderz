@@ -4,7 +4,7 @@ Hi 👋 My name is Wolfgang Welcomez
 Fullstack developer
 -------------------
 
-i have 2 years in the development of software with technologies how React, React Native, Nodejs, Javascript, Typescript Etc.
+I have 4 years in the development of software with technologies how React, React Native, Nodejs, Javascript, Typescript Etc.
 
 * 🌍  I'm based in Ecuador
 * 🧠  I'm learning Python
