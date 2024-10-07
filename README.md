@@ -1,49 +1,69 @@
-Hi 👋 My name is Wolfgang Welcomez
-==================================
+<div id="header" align="center">
+  <div style="margin-bottom: 10px;">
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" style="display: block; margin: 0 auto;"/>
+  </div>
+  <div style="margin-bottom: 20px;">
+    <img src="https://komarev.com/ghpvc/?username=rouderz&style=flat-square&color=orange" alt="" style="display: block; margin: 0 auto;"/>
+  </div>
+</div>
 
-Fullstack developer
--------------------
 
-I have 4 years in the development of software with technologies how React, React Native, Nodejs, Javascript, Typescript Etc.
+<h1 align="center">Hi 👋 I'm Wolfgang Welcomez</h1>
 
-* 🌍  I'm based in Ecuador
-* 🧠  I'm learning Python
-
-### Skills
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Lavarel" /></a>
+<p align="center">
+  <strong>Full Stack Developer & DevOps Specialist</strong>
 </p>
 
+<p align="center">
+ <i> 🚀 Building Scalable Solutions with a DevOps Mindset – Optimizing Workflows for Impact! </i>
+</p>
 
-### Socials
+<p align="center">
+I am a software developer with over six years of experience in creating efficient and scalable applications. My expertise spans both front-end and back-end technologies, enabling me to deliver seamless user experiences while ensuring robust server-side functionality. I am passionate about embracing the latest trends in DevOps, particularly in leveraging tools like Terraform and AWS, to streamline deployments and enhance system reliability.
+</p>
 
-<p align="left"> <a href="https://discord.com/users/Rouderz#7276" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/rouderz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/rouderz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/wolfgang-welcomez-b47011175" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="center">
+I thrive in challenging environments where problem-solving and innovation are essential. My commitment to continuous learning drives me to stay updated with industry trends and best practices, allowing me to optimize workflows and improve productivity. I am eager to contribute to dynamic teams and deliver impactful software solutions.
+</p>
 
-### Badges
+### :hammer_and_wrench: Languages and Tools :
 
-<b>My GitHub Stats</b>
+<div align="center">
+  <div>
+    <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+    <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+    <img src="https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS" />
+    <img src="https://img.shields.io/badge/jQuery-jquery?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
+    <img src="https://img.shields.io/badge/Bootstrap-blue?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+    <img src="https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+    <img src="https://img.shields.io/badge/Express.js-blue?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+    <img src="https://img.shields.io/badge/GraphQL-e10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+    <img src="https://img.shields.io/badge/NestJS-red?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+    <img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+    <img src="https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+    <img src="https://img.shields.io/badge/Terraform-orange?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+    <img src="https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+    <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/GitHub_Actions-yellow?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+    <img src="https://img.shields.io/badge/GitLab_Actions-red?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Actions" />
+    <img src="https://img.shields.io/badge/SOPS-blue?style=for-the-badge&logo=gnupg&logoColor=white" alt="SOPS" />
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+    <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
+  </div>
+</div>
 
-<a href="http://www.github.com/rouderz"><img src="https://github-readme-stats.vercel.app/api?username=rouderz&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rouderz's GitHub stats" /></a>
+### :fire: My Stats :
 
-<a href="http://www.github.com/rouderz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rouderz&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<div align="center">
 
-<a href="http://www.github.com/rouderz"><img src="https://activity-graph.herokuapp.com/graph?username=rouderz&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Rouderz&layout=compact&theme=vision-friendly-dark)](https://git.io/streak-stats)
 
-<a href="https://github.com/rouderz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rouderz&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rouderz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
